@@ -1,1 +1,3 @@
-git 13/06
+## Curso GIT
+Aprendendo controle de versão com * git * e * github *
+
