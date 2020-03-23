@@ -1,3 +1,3 @@
 ## Curso GIT
-Aprendendo controle de versão com * git * e * github *
+Aprendendo controle de versão com *git* e *github*
 
